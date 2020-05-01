@@ -1,4 +1,4 @@
-# friutmall
+# fruitmall
 
 ## Project setup
 ```
