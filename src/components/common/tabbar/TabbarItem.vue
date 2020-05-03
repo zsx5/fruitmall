@@ -53,6 +53,7 @@ export default {
     width: 24px;
     height: 24px;
     vertical-align: middle;
+    margin-top: 5px;
 }
 /* .active{
     color:#d4237a;
